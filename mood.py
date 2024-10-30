@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import date
 import json
 import os
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 def load_user_data(username):
     filename = f"{username}.json"
