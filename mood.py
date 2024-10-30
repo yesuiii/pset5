@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 from datetime import date
 import random
+import matplotlib.pyplot as plt
 
 st.title("Mental Health Tracker")
 today = date.today()
